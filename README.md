@@ -23,9 +23,6 @@ The program asks the user for their name, age, city, and hobby using input() and
 3. Open terminal or command prompt
 4. Run the program
 
-python personal_intro.py
-
-
 ## Code Structure
 
 - personal_intro.py → Main Python program
